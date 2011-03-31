@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: python-hashes
+Version: 0.1dev
+Summary: Library of interesting (non-cryptographic) hashes in pure Python.
+Home-page: http://github.com/sangelone/python-hashes
+Author: sangelone
+Author-email: angelone@gmail.com
+License: Custom
+Description: UNKNOWN
+Platform: UNKNOWN

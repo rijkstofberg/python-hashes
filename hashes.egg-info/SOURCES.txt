@@ -1,0 +1,15 @@
+MANIFEST.in
+setup.cfg
+setup.py
+hashes/__init__.py
+hashes/bloom.py
+hashes/geohash.py
+hashes/hashtype.py
+hashes/nilsimsa.py
+hashes/simhash.py
+hashes.egg-info/PKG-INFO
+hashes.egg-info/SOURCES.txt
+hashes.egg-info/dependency_links.txt
+hashes.egg-info/entry_points.txt
+hashes.egg-info/not-zip-safe
+hashes.egg-info/top_level.txt
